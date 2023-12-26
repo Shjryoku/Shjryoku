@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=6c09b952c2wbf3iff5pggifsii0jum29f5vvk0tes0iid4v4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="250"/>
+</div>
+
+
 
 <!--
 **Shjryoku/Shjryoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
