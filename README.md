@@ -1,6 +1,6 @@
 #
 <div>
-  <p align="center"><b>***I'm the C++ & C# Unity Developer***</b></p>
+  <p align="center"><b>***I'm the C++ Developer***</b></p>
 </div>
 
 #
