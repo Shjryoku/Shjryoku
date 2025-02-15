@@ -1,6 +1,7 @@
 #
 <div>
   <p align="center"><b>***C++/C# Beginning developer :p***</b></p>
+  <p align="center"><b>***Discord: shjryoku***</b></p>
 </div>
 
 #
