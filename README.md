@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><div><br>  <p align="center"><b>***C++/C# Beginning developer :p***</b></p><br><br></div><br><br><div id="header" align="center"><br>  <img src="https://media2.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=6c09b952c2wbf3iff5pggifsii0jum29f5vvk0tes0iid4v4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="250"/><br></div>
+<br><div><br>  <p align="center"><b>***Middle Backend developer :p***</b></p><br><br></div><br><br><div id="header" align="center"><br>  <img src="https://media2.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=6c09b952c2wbf3iff5pggifsii0jum29f5vvk0tes0iid4v4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="250"/><br></div>
 
 
 ## 🌐 Socials:
