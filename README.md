@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Backend Developer with production experience (1+ year)<br>⚙️ Focused on asynchronous systems, performance & reliability<br>🔌 Building REST APIs, microservices, and background processing pipelines<br>🐍 Strong in Python (FastAPI, asyncio, Flask)<br>🛠️ Experienced with PostgreSQL, Redis, Docker, CI/CD<br>📉 Reduced API latency, improved observability, and minimized production incidents
+🧠 Backend Developer with production experience<br>⚙️ Focused on asynchronous systems, performance & reliability<br>🔌 Building REST APIs, microservices, and background processing pipelines<br>🐍 Strong in Python (FastAPI, asyncio, Flask)<br>🛠️ Experienced with PostgreSQL, Redis, Docker, CI/CD<br>📉 Reduced API latency, improved observability, and minimized production incidents
 
 
 ## 🌐 Socials:
